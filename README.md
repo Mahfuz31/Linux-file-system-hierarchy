@@ -1,8 +1,8 @@
 [![Picture](./Linux_file_hierarchy.png)](./Linux_file_hierarchy.png)
-Root Directory (/)
+**Root Directory (/)**
 The root is the top-level directory in Linux. Every file and directory starts from here. It is the beginning of the file system hierarchy.
 
-Important Subdirectories
+## Important Subdirectories
 1. /bin (Binaries)
 Contains essential user command binaries (e.g., ls, cp, mv).
 Commands needed for basic system operation, available in single-user mode.

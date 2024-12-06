@@ -60,25 +60,4 @@ Secondary hierarchy containing user applications and utilities.
 Files that frequently change during system operation.
 Logs: /var/log.
 Mail: /var/mail.
-Caches: /var/cache.
-Structure Visualization
-
-/
-├── bin
-├── boot
-├── dev
-├── etc
-├── home
-├── lib
-├── media
-├── mnt
-├── opt
-├── proc
-├── root
-├── run
-├── sbin
-├── srv
-├── sys
-├── tmp
-├── usr
-└── var
+Caches: /var/cache 

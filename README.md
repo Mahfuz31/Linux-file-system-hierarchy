@@ -1,3 +1,4 @@
+[![Picture](./Linux_file_hierarchy.png)](./Linux_file_hierarchy.png)
 Root Directory (/)
 The root is the top-level directory in Linux. Every file and directory starts from here. It is the beginning of the file system hierarchy.
 
